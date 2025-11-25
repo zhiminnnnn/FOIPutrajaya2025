@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Festival of Ideas 2025 - Reflection
 Me and some of my classmates attended the Putrajaya Festival of Ideas on 5th November 2025. There were many other university students who attended this event as well, like those from UM, UKM, UPM, UiTM, UTeM, and so on. To be honest, I thought I was just going there to be a passive listener, but this festival has proven me wrong in so many ways.
 
@@ -8,3 +10,4 @@ Special thanks to the Minister of Higher Education for initiating this amazing e
 ![photo_6096141215918132642_y](https://github.com/user-attachments/assets/7a0ad488-7b23-4b6f-8296-dd6c3693134a)
 ![photo_6096141215918132638_y](https://github.com/user-attachments/assets/a25a9534-5993-4071-9c44-d7b88ed5896e)
 ![photo_6096141215918132636_y](https://github.com/user-attachments/assets/822d536b-68c3-49a7-a130-967595ccde88)
+</div>
