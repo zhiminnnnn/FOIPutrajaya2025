@@ -17,7 +17,7 @@ The relevance of this festival has remained true in terms of giving a platform f
 >As a result of this experience, personal anxiety was transformed into a structured list of goals to be achieved. Inspiration was felt to a great degree by being surrounded by smart and passionate individuals, and excitement was generated regarding personal potential. It was realized that learning is not conducted merely for the sake of passing exams; rather, it was understood that "cool things" can be accomplished in the future. A vision was formed of being among those who will shape the Malaysia of the future.
 >
 >A clear concept of the necessary areas of study has now been established. Finally, special thanks are extended to the Minister of Higher Education for the initiation of this amazing experience.
-## Photos
+## 📸Photos
 ![photo_6096141215918132642_y](https://github.com/user-attachments/assets/7a0ad488-7b23-4b6f-8296-dd6c3693134a)
 ![photo_6096141215918132638_y](https://github.com/user-attachments/assets/a25a9534-5993-4071-9c44-d7b88ed5896e)
 ![photo_6096141215918132636_y](https://github.com/user-attachments/assets/822d536b-68c3-49a7-a130-967595ccde88)
